@@ -1,2 +1,2 @@
-# ML-Competition
-Repository for Kaggle , HackerEarth , etc competition ipynb Notebooks
+# ML-Projects
+Repository ML projects ipynb Notebooks
